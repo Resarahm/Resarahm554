@@ -1,0 +1,26 @@
+{
+  "name": "Sam King",
+  "age": 34,
+  "address": {
+    "street": "Rezmu Glen",
+    "city": "Zavajipi",
+    "state": "CA",
+    "zip": "26388"
+  },
+  "contact": {
+    "phone": "(347) 220-3097",
+    "servicePhone": "800248134"
+  },
+  "birthday": "1973-04-27T08:18:22.894Z",
+  "ip": "76.119.123.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Opufule puf lo poksup hazkic re nefe jodar gazcupec bijudci med ewo. Eh ransivhi habam fu bolpavta pup kekoro dup be uw uvuzupeg emuzo nuhav. Cefe ofvif pihez wigin pulef remudgu mojzo donece podzal lur agdolzec riakje juscuro.",
+    "bio": "Nofiga mi pardoteho tutijis jevvauhe ozu zinobav da nokcofit tirki ko ruhtuh wilvunut. Degu da be eduzed roj bosludwi haze tetale zapolje guikois awe tim pitka. Lecnofuk vazaj su tat sav sojpiho ovjimpul piznuk boepfol gudlop edipup ko maive."
+  },
+  "apiKey": "c88cee6d893b1c79664acd2a75c15caeef64a81466c48f9384cc5a7b7874e708",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
