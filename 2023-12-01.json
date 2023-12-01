@@ -1,0 +1,26 @@
+{
+  "name": "Mason Reeves",
+  "age": 63,
+  "address": {
+    "street": "Como Boulevard",
+    "city": "Fovnega",
+    "state": "TX",
+    "zip": "98097"
+  },
+  "contact": {
+    "phone": "(586) 635-9255",
+    "servicePhone": "800493759"
+  },
+  "birthday": "1989-04-03T14:41:10.862Z",
+  "ip": "232.242.158.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Fofpapake fum paoni pakokonoj ezve bigezce imapukuz miis taz mazop kahan he moj. Iroluomi ibukeh ogubapiz ucgera sannur puab ni zuv do ekkube nubic osudo po. Gadgituk fi buhlif no demnekiv bo konninsic vij cullicuz nalipu hon emroj. Vu koetusal sum lepicbih goj iw odibu la nutbud teh kiwri or zab akgelape agcuvboj gasi zeswebgew bemfu. Netiefe guhovteh sec sote bovihdeg regziwev lamkoic nak arkuvane fic gu se fa lij. Tipruf op nolduza emmovfu so gu boowidap orivaw jelnanfij cipzu otet ufe. Ano bed no se gegiso ka goh wag zonge ojapoz poci ufe mok derige hezuav ri.",
+    "bio": "Vurzuhsuk suehkuz am jichagpi wur demif lawopizu fompuba ijzi wonjougi gu ru ver ta. Iti kof padewu rizacuw ewkaati owfub zezet wuk do ka beifapaj upjoule itaodo vapcobjim suezahi. Wano cid hobis kibzeam ge mudkeh uf zedud kardupod niddujo won un ew nuc."
+  },
+  "apiKey": "759fe2f938094798328d56beb64fcbda8e50a21c8e2cb9019d18574f4c8455f7",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
