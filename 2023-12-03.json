@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia Beck",
+  "age": 41,
+  "address": {
+    "street": "Wejmet Drive",
+    "city": "Labasid",
+    "state": "OK",
+    "zip": "65600"
+  },
+  "contact": {
+    "phone": "(533) 788-7562",
+    "servicePhone": "800347374"
+  },
+  "birthday": "1980-12-30T13:23:47.793Z",
+  "ip": "58.171.118.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Ahuda bufreca us hinuomu koib pate pa cefo eda poraza odfic amucacji cazasa tuohod pa. Ac iv fitpi tiwgu unamop wak zifal atuzumut top rusfueg ojid agsaos tuwit gunlurdu luvfud ja hasom vawufegap. Rajfo pedo tu so bomab lipe je rugutaf gobig jukmugni zit fub pisisa gejopih. Agomeosi emibufwu dazo akowo zifi medit liun be ko tavuhhap sil gub agawoffa.",
+    "bio": "Alerate durauh suzler jizolu ifa kaflu mo meom zabud vowosoj fo eseibo duv onreru akvitve picgaako ehfal udlofo. Ti po setka libaoz zivzuhas keijeva bus dakjo fi asuru pub jujweb pin patnumnu. Ezha pew wu vofef tuenif sitjawmum nukewozes dev navloj af huspaura igohezo dihofe geswu cedas su kenuhta."
+  },
+  "apiKey": "84d2a51426a98481d835ffba4e7e6e179bf1425bca4cdc746dc8ad771110c28e",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
