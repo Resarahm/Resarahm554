@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Tran",
+  "age": 63,
+  "address": {
+    "street": "Hihol Heights",
+    "city": "Piltuep",
+    "state": "OH",
+    "zip": "44154"
+  },
+  "contact": {
+    "phone": "(569) 526-7316",
+    "servicePhone": "800284975"
+  },
+  "birthday": "1994-01-06T18:10:04.862Z",
+  "ip": "117.121.214.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Wowawta ebnaru av racmuc vertafwib sa el vobaac ro ete fu cilpiip sifugeg wite wi wo vuk vepuh. Cipici zu ge fugiecu dud ujugoim cal akiec joplo lo vetene buhat nosi. Edihu wewow cuw ujhaduj mirgawija ga ka vohi fov wulajlul et etugu nizloveg gemadus.",
+    "bio": "Un ud lul ovbigciz were favu irgi gek sebsaz ik ap la geensuw. Guv sonbe romvo ace gotcov ujewep bovipipa fatrotci neafuubu tozoir cun foug. Urofah rujesade azi wezirzi kezem rov igawavgew azpo de geta wul fekeguk ad efketu vime eg olikil. Je ohami veshe zoek ivi das de do buzi piftubed anuiki amiruso wasiki kuwwazfic mo if."
+  },
+  "apiKey": "a88276170a1a8e46174e2670cf8c8acfe8251ccb179736e4b7bf07fe90287776",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
