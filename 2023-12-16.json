@@ -1,0 +1,26 @@
+{
+  "name": "Richard Blake",
+  "age": 65,
+  "address": {
+    "street": "Alfe Grove",
+    "city": "Hutselo",
+    "state": "KS",
+    "zip": "86149"
+  },
+  "contact": {
+    "phone": "(916) 228-2400",
+    "servicePhone": "800966437"
+  },
+  "birthday": "1987-06-17T01:34:26.628Z",
+  "ip": "152.26.74.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Henurri madgehu zafwukig dekvezti tut zarejgod mamgis zoc mihgi miw gacazen cus razbapge. Dec vepop lodfahde ifa wubacof hiccoij ve zunculbum kahlaf gi warupig abdamso ji puhorasu moad ipake. Defome li conoz jan ipolood ic su ofli ecaseut faduchul kigzap tet afu faivub bajitusu jop bovzo le.",
+    "bio": "Ehahuv ip zih he fozam re ufpa vew ivmo mamtige siz wauk ruhzaded fulte piwdasur musa. Zuhzewgam nidu so tisen kazocu kul eze diicku bubfobjuw gur gulidu miw fo. Riko ko gojrallag solarwib cacuhiw kac bekseoj idiuvca obijaltot mufpid rec bihipas keepiza."
+  },
+  "apiKey": "f4be362882bd2e86ac127e2419b04f25ada4d37f6221526797802e84ae445ec6",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
