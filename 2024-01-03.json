@@ -1,0 +1,26 @@
+{
+  "name": "Celia Holmes",
+  "age": 63,
+  "address": {
+    "street": "Ludif Turnpike",
+    "city": "Owiveko",
+    "state": "NV",
+    "zip": "43064"
+  },
+  "contact": {
+    "phone": "(403) 602-3347",
+    "servicePhone": "800391935"
+  },
+  "birthday": "1988-03-14T03:17:08.277Z",
+  "ip": "46.252.95.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuggimbal ric ha cuduw jonnuk wej uwozidu ani pel gij rivicna hat. Pupwe odovo puhjalpot fe de reje sa erizo cawnuma bahup ache ohiojit we becanife medsacap. Lup ajatkif ri zefmahda jujaza kanihmew juknojwi kapagi ko bocule nobijved ec pis jofmeffa fopki. Wav duwal fafbi wocpolip al ped jemviwa detze izuluca helafuju hojen ejeet idwa. Zotfu puw ippietu cufowi jup nubijob ketzoca ep tejas fi kituzka huldo ani detmamhez cavdac.",
+    "bio": "Mej sehluki voer otzi sovit dev eviakvi valo noapeuh job guh wezcowran. Gilda rura witraj fouz uldonas cof noumvi vuceziome mahpud peniz kalaf iralito polkuwmat la do. Zoke izi ewuake zaige zulzovpil ce rogib sew doitgu geta sij bisles momoze ulfomved zopicotoc."
+  },
+  "apiKey": "82ac1047e21925ac1c8c9fb519cfc53990f16accd40bbf0f05154a533e439ac6",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
