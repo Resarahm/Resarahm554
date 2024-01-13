@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Owen",
+  "age": 39,
+  "address": {
+    "street": "Goimu Turnpike",
+    "city": "Lotemtup",
+    "state": "NV",
+    "zip": "78519"
+  },
+  "contact": {
+    "phone": "(305) 349-3631",
+    "servicePhone": "800757359"
+  },
+  "birthday": "1968-07-03T07:09:00.180Z",
+  "ip": "71.39.122.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuz mefzarwo fawmiju womezfe dadu do irzugil atjeceb udki fu guztez simov sej. Jabnanos ekmagac uvacor loh boluva ana jof rine etipibev owehur davpin bapihru. Wavtiadi duhbik efkukbu disitzu as to aje moj ajaroti vin er tivejnar. Lej borbi eviefamez tapibju lirtid eguto gur us desu denifmi il ca cu muaz fief val je. Wo cuva to ote di di tovir bacil takecro takus vat ral. Howwit lekuliw zeranali vulfevnup hip hiznizug adahev gimpof koevu fepnivpij wawtopu rad bosmatij tuj jurtinir jam impuzil. Povi pu rezpas he dugib het ekwug vosivec jahja muin fad zojveb li ti didis.",
+    "bio": "Anu won ijbasub ru finteen guge ifacal vucsoz eno gepev kelajvo duwemew. Bibil vocegeg hovhuk sivanuk kustekhuk ficalna sijpupa nodwutnez pabpeh kivham joevuten boburir nu. Vajbun nirkuvlij cu demlu ruol horod ca zumuko bofzom omzaelo actesge zaga tuvintiz fedop maakse vazibha."
+  },
+  "apiKey": "0fe649656546de98f3ce569190cd490e927975f32d045f4c70a4985c9b3e7401",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
