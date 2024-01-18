@@ -1,0 +1,26 @@
+{
+  "name": "Minnie Warren",
+  "age": 62,
+  "address": {
+    "street": "Tuvok Plaza",
+    "city": "Defirsal",
+    "state": "IN",
+    "zip": "32712"
+  },
+  "contact": {
+    "phone": "(502) 680-4098",
+    "servicePhone": "800415418"
+  },
+  "birthday": "1965-08-12T19:38:45.821Z",
+  "ip": "146.83.79.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Ja fasodfe lan oci rafme uci ag fa ere zuc lawafmep dagfub. Hogup bugi va tejha cetujih vi milhe jelog tuthelem az zadus susajog va. Weiciep som roguf jev lo ote zaw golku ihsib ewti dililno mote. Jecvugi jardaebe uwipudow johuni ul galegic firojasi gas meburnu vi rumu cowhaco funuz vaga ma izeimi lelzaz.",
+    "bio": "Hewinzib iwarok hajroriw ku sajesfa ari ileruf tacihe cejsocem ughapboh nov gadsiksoc. Wusefli zu jahutpew me pobjum me tociiju ero weac zujzonjid batfevu jasnoprev vub if otzuh. Gujote fe ke caebu jautuze ez vu wol vivese sanilasaw jahgiiso da sow lej reniwsuj."
+  },
+  "apiKey": "89b16ca6a0b85ff31bde256c1dde089dcdcab3d9479406a657232cc35b09ada5",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
