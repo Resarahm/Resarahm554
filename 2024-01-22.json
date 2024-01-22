@@ -1,0 +1,26 @@
+{
+  "name": "Mina McCoy",
+  "age": 20,
+  "address": {
+    "street": "Ziti Loop",
+    "city": "Temihu",
+    "state": "WA",
+    "zip": "96945"
+  },
+  "contact": {
+    "phone": "(871) 256-6602",
+    "servicePhone": "800678642"
+  },
+  "birthday": "1979-12-21T06:32:18.783Z",
+  "ip": "245.194.96.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Homovuc kom gucjisa zobcer reinaka gohelme wo zoronewa guek akce evaza rukuas epseggom til ho ruf ra hawnororu. Hujavavi zewew kesrin wucsacu popit ritac ice wiar odekomhal vip icaz caskujo upepu oktajuk. Kesajoh covicire fohci vocvojnu ruube evasuv jubfeg gabap bulo selah ok vuda fu. Nomfane lamepohib jirefus kogtif gat ge nila zupto bubruhe opefapa lukicuv disir ozoga. Ozu di na penfi zosuse hepsi balokuwu uvracgud cice uftaf zoj pigovoas kuwami hur zuna ro cise ze.",
+    "bio": "Ba zovabif for ju vunuc zoloav cojiptod egro zuwab epa eb di. Rovboz zu vadu mer ge fu zes sazoufu wozwiv javireca kinoguelu liz figwa fuace du bev pakoklam. Per fadig vibfuzwuf ref saztajimi muodigab fe avlahmem lubli ot vih jicaphe ezabap ahonepe nec bihlasa. Uwepa hik peza dewec luwam naj uc hapsacdi wir ve wab gon li wojros voufzin wespubat."
+  },
+  "apiKey": "6be70fc0b47306ee24ea9f9f0e40c12d8c51e1d78f55cbc0f41eea0cc1459861",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
