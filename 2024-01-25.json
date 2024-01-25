@@ -1,0 +1,26 @@
+{
+  "name": "Effie Collins",
+  "age": 29,
+  "address": {
+    "street": "Velew Plaza",
+    "city": "Zilofusap",
+    "state": "MT",
+    "zip": "85806"
+  },
+  "contact": {
+    "phone": "(813) 550-8353",
+    "servicePhone": "800926142"
+  },
+  "birthday": "1970-09-28T03:45:31.148Z",
+  "ip": "215.215.147.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Hudi ebura er bihibapa sorifsa mac wuluwama ewiel sur odi sajese ta lazri jip pitakpi gakfed aj leflo. Bak fa rid pim suewu ko lak uhal oh ruk fepezu hohselzud cas lumgoz sa gu. Zoldoika itesunowa wuraogi nerunati osanov kodvudpa deg duregfov idu buv rehcak eslov jujlocir wulefavar.",
+    "bio": "Tug velbos wu mego oli bosuda gigjav ka ofidiza ceb we ij getfu cucge pahollih vekuril ovpiit vaaza. Ticvejo gunemop itilup il cedez kewapsoh rugu adalo rotesnug fotahva finud lemfuida megbeug gev um. Ocuguzter di lut ohiwi botlefki kobi ekribfi re tubnuvji juriba ticudid zaz lauzonib."
+  },
+  "apiKey": "6ac160fda52fcbd2110bfd9a47a60de3c923adbecf18da4890aa19be38fa13cd",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
