@@ -1,0 +1,26 @@
+{
+  "name": "Grace Lopez",
+  "age": 18,
+  "address": {
+    "street": "Ecuoz Junction",
+    "city": "Zeilejag",
+    "state": "GA",
+    "zip": "72567"
+  },
+  "contact": {
+    "phone": "(428) 534-4620",
+    "servicePhone": "800187959"
+  },
+  "birthday": "1973-12-12T16:06:27.456Z",
+  "ip": "194.51.89.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Bouvvuw as aso rihuc nive di doitu metzaar noejipac vevevo sojbolum wi dah. Pukfif nubuha semcuas cuvda kuwanni pumad sa lo pemen gekza degguidi odabuw hewelaif. Cassi zehgu odsuzaz dubopvok vat silo gassizor kohopgu rivuni no en enfege meiwa dozajat nizu lekojmas mah.",
+    "bio": "Hegeho dib ozuril offoiw zuroj ise rabwelu maifi ahop pobuhi ez lovdusas mil. Raphuc liuro uvorbe veeca de sepapol ug hi zewno eprojot ifunosgif dobat zusecbu ivogu vub nigwo vec. Igpenzem ojcucraj zicab lakce nek fuktuiwa ene bal fuwlaka zaehi uckappi hiuhof ancokgi haj eligile kesanow fodapzec maif."
+  },
+  "apiKey": "37c5fd09ee4b2d229e3fe32e4af9d61a2954456ca6038a601f8046fdda5051b2",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
