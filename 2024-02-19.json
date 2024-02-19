@@ -1,0 +1,26 @@
+{
+  "name": "Carl Fleming",
+  "age": 53,
+  "address": {
+    "street": "Nauhe Grove",
+    "city": "Purela",
+    "state": "SC",
+    "zip": "17242"
+  },
+  "contact": {
+    "phone": "(405) 273-5415",
+    "servicePhone": "800215713"
+  },
+  "birthday": "1988-07-19T06:57:15.781Z",
+  "ip": "241.172.253.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Sugiw epi sozic hop nerewti afibu na talgir fokuda se timaga zolun cekbazfi nauc. Nupaszon um ihuhi ifito bas wagpe diom hob jepiwi kar taseb li fingi wuv. Ce kechugcu nicifo onoat uboj dowvofagu oma bov ifudutres oniwco kouve sefa izrid dupahpu cuntec kibwigupi nukpij. Ozrujol razmabce wabic gorud wedumo ta esugifo gaz eca elculka joliba vo pedgouw piagepu ziul av voovu bujivel. Oj eh joulhi fudezdok ohadap gu latawviz ba gab wop ses roukgig.",
+    "bio": "Fivaf fe hetniv tivwa sob tejer vi an doruj hupma cefwup ro kotzusog lifik. Zitveg ceruj gaptote aca gus ziv houpo ti buz sogu pi lihlus zadbahjop miijjeg ed vowela gojos. Odu ero le dahot duti nummur ros muv wirortej udeup me su recopa urimu cawi puziha."
+  },
+  "apiKey": "2b844d7c6b5c67ceba3f9abf0f9c1c097111d7c301c11adee9865e67686dc3b0",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
