@@ -1,0 +1,26 @@
+{
+  "name": "Cora Hamilton",
+  "age": 25,
+  "address": {
+    "street": "Roru Manor",
+    "city": "Luborpik",
+    "state": "WA",
+    "zip": "60301"
+  },
+  "contact": {
+    "phone": "(821) 876-8102",
+    "servicePhone": "800626853"
+  },
+  "birthday": "2003-04-23T07:44:30.418Z",
+  "ip": "4.105.136.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Kaba ja uhadieco oz tamanowor zatacro vafafkog dawponib efo tuwak wusvi ne. Lulrosa danifa icna arepiuhu luhiwba apli jo amapug ti fum zamvazzun lozvulhe gig. Nefulhi vavin wivamhi jaksuk pepespuk pegeh lekcok vef cigsaf zenloh be ekus loefu ihvijir. Uze tekisasa zi fiz rev bippigzi digoljaj har heovueb cupvij wef tot hec wocko gaduzo eg.",
+    "bio": "Rovgun kawol kov sosfag redilinuc wadub lul humozic hogup usjok sihoge ojo hotudev rupfe. Mijita cacmakvu rogtuf guvcawof kiku duwsimna baise dubmu pof lumik ed gojnu wahda gid becpa duiwal. Hinhad ikihu azwesof weban we lonu fok ka veow pesvi tucufas jiphimap ke odcubheg duida."
+  },
+  "apiKey": "d77764cc16d5648bb13742e72b90fa7ac6e3aab25493146869335f9534ceb3c7",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
