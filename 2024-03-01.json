@@ -1,0 +1,26 @@
+{
+  "name": "Lena Brewer",
+  "age": 57,
+  "address": {
+    "street": "Upzop Boulevard",
+    "city": "Hebema",
+    "state": "OR",
+    "zip": "05574"
+  },
+  "contact": {
+    "phone": "(973) 202-2067",
+    "servicePhone": "800587789"
+  },
+  "birthday": "1968-06-23T15:03:03.162Z",
+  "ip": "117.241.224.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi himon ecuevuut atzorzij jezoec egli ovakajhom cebma pazge jik coip upudu uk melziv ufjidrik va. Dawco guhehgim web cicma ciato mevvi sivla pofitaih beha pa dah vuiwe. Niamce giwzes tajeme uwiggov bikci fipo ac votahos fini pame voine ju at atilaz ra gu kuc.",
+    "bio": "Eljaseb lu wad pop igmawsu oljaros tokit ica mec oc tawa somudbir gajuma kil kudjo. Figfaba mujewekuh unnitow ehrepu vireh wiakbi wiwudi comi ovi zugito tetdatu he eb ocowuzme gusilobi eknic. Hi megkicew bol vudivug febaw sampik sodulogu edojvoc mun gur lagdep galitfek polovam jaruc ta jiviw loja."
+  },
+  "apiKey": "3dd6422d104e05aeb2044ba7c3d72a45cbc5e28c504459ae3c88f0c5e21704a3",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
