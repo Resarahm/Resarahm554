@@ -1,0 +1,26 @@
+{
+  "name": "Walter Clayton",
+  "age": 44,
+  "address": {
+    "street": "Usida Key",
+    "city": "Hupuce",
+    "state": "VT",
+    "zip": "54121"
+  },
+  "contact": {
+    "phone": "(628) 327-2378",
+    "servicePhone": "800278584"
+  },
+  "birthday": "1980-07-16T22:07:59.341Z",
+  "ip": "194.205.0.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Olwis kuv ejfede ru bopawogu boupilin mitah mewja evaca digbuluv za ficnowap. Daza kukpudon wukeci mu kemejo fazorpa joacojes veceoc jaasu zov bit lena wolufces. Keftab to segrazu zagek ra to zannolkib vulufege lejebet rum ejaje sojafcul homco sihi kam bi umjosen wuhegop.",
+    "bio": "Pisag emlil fajas ifaziw ze govjujo ifagahe fih hekseksu ojnaziv ji poszot ir timazpej. Kom vehi zaruf ferep atefos cenpif ih lake wazrazuj soci pej hugohtew rokuel bovpi ucasapu icfuf. Ibgu mi nam zonhu nahola at re acfitpib da jopwerpeb osale terodo bunbuw gu hek tu ejoumu kivcancop."
+  },
+  "apiKey": "3d32f1c26a25b05cf104c540c49ae04d6c8c42b9451ee60eae2a49a120aab15c",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
