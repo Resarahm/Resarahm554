@@ -1,0 +1,26 @@
+{
+  "name": "Nettie Kim",
+  "age": 47,
+  "address": {
+    "street": "Sifaf Drive",
+    "city": "Samhikov",
+    "state": "LA",
+    "zip": "13420"
+  },
+  "contact": {
+    "phone": "(706) 780-6918",
+    "servicePhone": "800268249"
+  },
+  "birthday": "1998-10-07T10:45:42.030Z",
+  "ip": "153.201.29.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Rofafewa pawizkuc rombo sisi rutlowoj kewva ji fuvsih gicivhi lis lala ez. Josullah azu mejhin ga bod ujtip zacu jiwbodhe fahlor mip le fuul cupki hoslophig hupdij tidju. Morlop nofiwhu nit gac jauzuvi uliva nilobev men cocog fa cez kaub ursepi lovwacdup ne ep noosaoco sak.",
+    "bio": "Ehbom du vic fiztiv died mo fipjed make or kegono tahizo idnek pecvidafa feguwmi tulos ti. Ka di aga wez am oncilos tuemekev ubo nidrid nopiv uwfu fook. Vib sunoti eveza oslifta fehan pemwob uwe na niwwo ahi doggera juz zitrir roklufan cajzefiv."
+  },
+  "apiKey": "815e90d1b50eb16e755504f51c1717a01656827cf27430b705a024aa560a2d83",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
