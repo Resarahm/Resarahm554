@@ -1,0 +1,26 @@
+{
+  "name": "Andre Fuller",
+  "age": 53,
+  "address": {
+    "street": "Taztod Key",
+    "city": "Sosezeb",
+    "state": "IL",
+    "zip": "02429"
+  },
+  "contact": {
+    "phone": "(343) 544-5385",
+    "servicePhone": "800168794"
+  },
+  "birthday": "1989-09-05T00:33:11.865Z",
+  "ip": "145.20.34.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Cufowoc daf bemla vob rolam laduv bejov ce genitgu fuhe emufan gad zohsehiv fivebo howlejug echup. Vemev wuczaz vizogtag joj su ranuwlo awbe pomohon mi hewakti zibpo raphelug sanahgi ne deihogaf sel iz coz. Ame zecagep osi rutuhima zapfubza mif jo lukitu irlubbu ha basa ku ido jopgimobi ciser ces zazimbe urifuke.",
+    "bio": "Cowadili gifhodkor vaf buh noaz amke firapek ifetu wel nuzwaferi jebtigtu oresiubo neh sepova wuphuk. Su ebhawop roson tihhestoz ve reb vuzer sukeveg vegwog cuuvi rac ra futjef adlo okacoses nog. Vani utgolpa pub hisupo pivom ho nuocipom ozi eveuz eka tekobow doan wuov."
+  },
+  "apiKey": "f5881ef319560e04da002fb73aff29cfca8f68a4d6876f9e079bf52f9f1d2a8f",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
