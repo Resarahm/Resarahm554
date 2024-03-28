@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Perkins",
+  "age": 20,
+  "address": {
+    "street": "Abaaw Point",
+    "city": "Vuckewhe",
+    "state": "KS",
+    "zip": "10433"
+  },
+  "contact": {
+    "phone": "(421) 557-2018",
+    "servicePhone": "800138517"
+  },
+  "birthday": "1960-08-21T22:14:52.822Z",
+  "ip": "98.144.174.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Dirasbal nomkejbe tus duji uj fuhbof le zecija ujle ge jeg gevnuc buju javib tizebva. Ep otionemuh lujjuri cofzi elu me deped re dojov usahar malare cignikle akoof ciwoz. Buz ebehofas risur aleziep mawiwle ra efo cigka pok tu ej uldemmut. Duhu fofulmo husse hanow ja hezwu suaco nurrogcu hu ma zi gohud do jooze diazale cokig ile.",
+    "bio": "Geme ojonu voz vajsif ce ci fuh nuvza lu pozcevgam lun wodfobo. Malfenrol ata led derse ropirut letak le oj aveojepu vojaru vi la kaeji huvhoz dirulu givol. Efude la roofi jog gajni nam puek zad ma wuj urzipdad igaje. Kabevec jilha befoleofe pu tekze pahopog di jete rimma rimowi kof jamig mubev jedlub. Nozum awo atbubpib zamit gem hor niole hacozad mu fo uvpence gopla kajde aha. Ikduedo zibo tikkew loj dizzob pike hujhowet sitbiz vaklatoh mub buhemobo di rolubut juj te li zefa."
+  },
+  "apiKey": "db76e971054c87d8a2c1a854a53cfdebfa11b9aaffdf0f5075d4d5ba9b4ededd",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
